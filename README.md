@@ -38,6 +38,12 @@ npm run dev
 For the earlier p5.js sketches (`w02`, `w03`, `w04-shapes-and-patterns`), open
 `index.html` directly in a browser or use a local server.
 
+## Course
+
+**It's Shader Time** — ITP, NYU · Spring 2026  
+Taught by Elias Zananiri  
+[https://shadertime.betamovement.net/](https://shadertime.betamovement.net/)
+
 ## Development notes
 
 See [DEVELOPMENT.md](DEVELOPMENT.md) for the arc of the course — how each week built
